@@ -683,3 +683,96 @@ h3:hover {
 	display: block;
 	margin-top: 10px;
 }
+
+
+@media screen and (min-width:767px) and (max-width: 1023px){
+
+}
+
+
+@media (max-width: 768px) {
+  .signature {
+    font-size: 24px;
+  }
+
+  .tagline {
+    font-size: 20px;
+  }
+
+  .taglinesub {
+    font-size: 16px;
+  }
+
+  .aboutTitle {
+    font-size: 36px;
+  }
+
+  .bioTitle {
+    font-size: 20px;
+  }
+
+  .picformal {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .skillsTitle {
+    font-size: 36px;
+  }
+
+  .slideshow p {
+    width: 100px;
+    font-size: 14px;
+  }
+
+  .logo1 img,
+  .logo2 img,
+  .logo3 img,
+  .logo4 img,
+  .logo5 img,
+  .logo6 img,
+  .logo7 img,
+  .logo8 img,
+  .logo9 img,
+  .logo10 img,
+  .logo11 img,
+  .logo12 img,
+  .logo13 img {
+    height: 30px;
+    margin-bottom: 5px;
+  }
+
+  .projectTitle {
+    font-size: 36px;
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
+
+  .card-text {
+    font-size: 16px;
+  }
+
+  .soontitle {
+    margin-top: 20px;
+    font-size: 36px;
+  }
+
+  .contact-left h1 {
+    font-size: 36px;
+  }
+
+  .contact-left p {
+    font-size: 16px;
+  }
+
+  .social-icons a {
+    font-size: 20px;
+  }
+
+  .contact-right .btn {
+    font-size: 16px;
+  }
+}
